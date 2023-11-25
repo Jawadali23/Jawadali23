@@ -1,4 +1,4 @@
-![MasterHead](https://media.istockphoto.com/id/1788901552/vector/data-science-and-engineering-icons-modeling-transformation-mining-storytelling-visualization.jpg?s=2048x2048&w=is&k=20&c=MoG9CK2lsJZQ6v3LfmSTyav0Vs48IwLfYIlXvDqCaO4=)
+![MasterHead](https://bigdataanalyticsnews.com/wp-content/uploads/2020/04/data-science.jpg)
 <h1 align="center">Hi 👋, I'm Jawad Ali</h1>
 <h3 align="center"> Aspiring Data Scientist </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1008571096884334623/1130290280726286378/codingdave_animated_software_engineer_performing_a_code_review__2b1aed0c-7af6-485e-a214-cc02b435626f.png?ex=652c7f5a&is=651a0a5a&hm=3e9701b4613eff71e874d5c96e913f53b83ed54955747296581cfc9410dbf97b&">
