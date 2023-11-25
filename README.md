@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nepalec.edu.np%2Fblog%2Fdata-science-an-emerging-career-in-australia&psig=AOvVaw3vL7IQjSYq_HWQUn-vMvpH&ust=1700982642206000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiCj6TM3oIDFQAAAAAdAAAAABAE)
+![MasterHead](https://stock.adobe.com/images/data-science-banner-web-icon-for-computer-science-and-insight-ai-big-data-algorithm-analyze-statistic-knowledge-deep-and-machine-learning-minimal-vector-infographic-concept/304685223)
 <h1 align="center">Hi 👋, I'm Jawad Ali</h1>
 <h3 align="center"> Aspiring Data Scientist </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1008571096884334623/1130290280726286378/codingdave_animated_software_engineer_performing_a_code_review__2b1aed0c-7af6-485e-a214-cc02b435626f.png?ex=652c7f5a&is=651a0a5a&hm=3e9701b4613eff71e874d5c96e913f53b83ed54955747296581cfc9410dbf97b&">
