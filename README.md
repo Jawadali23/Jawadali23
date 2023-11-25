@@ -1,4 +1,4 @@
-![MasterHead](https://stock.adobe.com/images/data-science-banner-web-icon-for-computer-science-and-insight-ai-big-data-algorithm-analyze-statistic-knowledge-deep-and-machine-learning-minimal-vector-infographic-concept/304685223)
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRned5DjJdTKotQMOEKaNYmW13yrEI4HyiOGw&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Jawad Ali</h1>
 <h3 align="center"> Aspiring Data Scientist </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1008571096884334623/1130290280726286378/codingdave_animated_software_engineer_performing_a_code_review__2b1aed0c-7af6-485e-a214-cc02b435626f.png?ex=652c7f5a&is=651a0a5a&hm=3e9701b4613eff71e874d5c96e913f53b83ed54955747296581cfc9410dbf97b&">
